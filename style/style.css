@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* banner part */
+.bannere-section {
+    display: flex;
+    background-color: #E55473;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.banner-text {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 35px;
+
+}
+
+.banner-title {
+    padding: 35px;
+    color: #272727;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.bannner-img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+}
+
+.btn-primary {
+    margin: 30px;
+    padding: 7px;
+    text-align: center;
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+}
+
+.our-service {
+    text-align: center;
+}
+
+.service-title {
+    padding: 30px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.service-des {
+    padding: 3px;
+    text-decoration: column;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.image-part {
+    display: flex;
+    padding-left: 76px;
+    margin: 20px;
+}
+
+.img-one {
+    background-color: #A72162;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(238, 104, 169, 0.15);
+    text-align: center;
+    margin: 20px;
+    height: 50%;
+}
+
+.img-two {
+    background-color: #A72162;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(238, 104, 169, 0.15);
+    text-align: center;
+    height: 30%;
+    padding: 75px;
+}
+
+.img-three {
+    background-color: #A72162;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(238, 104, 169, 0.15);
+    text-align: center;
+    margin: 20px;
+    height: 50%;
+}
+
+/* hot part */
+.hot-container {
+    display: flex;
+    background-color: #E55473;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.h-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.h-des {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    width: 50%;
+    margin: auto;
+}
+
+.h-text {
+    text-align: center;
+}
