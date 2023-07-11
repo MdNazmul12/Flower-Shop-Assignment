@@ -154,7 +154,7 @@ body {
 }
 
 /*  */
-.insta-text {
+.ins-text {
     color: #272727;
     text-align: center;
     padding-top: 100px;
@@ -177,7 +177,7 @@ body {
     margin: auto;
     padding: 24px 48px;
 }
-.insta-image{
+.ins-image{
     display: flex;
     background-repeat: no-repeat;
     background-size: cover;
