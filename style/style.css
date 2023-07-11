@@ -194,7 +194,7 @@ body {
 .deals-container {
     width: 1000px;
     height: 400px;
-    background-image: url('../Flower Asset/Rectangle 9.png');
+    background-image: url("../Flower Asset/Rectangle 9.png");
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
